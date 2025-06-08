@@ -4,11 +4,11 @@ I'm a Full Stack Developer and aspiring Tech Founder passionate about building u
 
 ## 💼 What I'm Working On
 
-### 💡 [JobsHush.com](https://jobsHush.com)
+### 💡 
 Founder & Developer  
 An AI-powered platform to streamline job applications by:
 - 🎯 Tailoring resumes and cover letters to job descriptions
-- 🔍 Parsing and analyzing job listings with semantic AI
+- 🔍 Helping applicants prepare for their interviews
 - 📄 Generating customized applications with real-time previews
 
 **Features:**
