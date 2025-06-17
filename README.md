@@ -28,8 +28,8 @@ An AI-powered platform to streamline job applications by:
 
 ## 🧩 Featured Projects
 
-- **JobsHush.com** – Job application enhancer with smart resume tailoring
-- **https://saumay-portfolio.vercel.app/** – Developed using `Next.js` and `Tailwind`, designed to showcase projects and skills with smooth animations
+- **[JobsHush](https:://JobsHush.com*)* – Job application enhancer with smart resume tailoring
+- **[Portfolio](https://saumay-portfolio.vercel.app)/** – Developed using `Next.js` and `Tailwind`, designed to showcase projects and skills with smooth animations
 
 ## 🎓 Education
 
