@@ -28,7 +28,8 @@ An AI-powered platform to streamline job applications by:
 
 ## 🧩 Featured Projects
 
-- **[JobsHush](https:://JobsHush.com*)* – Job application enhancer with smart resume tailoring
+- **[JobsHush](https:://JobsHush.com)/** – Job application enhancer with smart resume tailoring
+- **[DocProcessor]([https:://JobsHush.com](https://document-parser-super-base.vercel.app/))/** – AI Powered Sales Order Creation application
 - **[Portfolio](https://saumay-portfolio.vercel.app)/** – Developed using `Next.js` and `Tailwind`, designed to showcase projects and skills with smooth animations
 
 ## 🎓 Education
@@ -44,4 +45,3 @@ M.S. in Management and Systems
 
 ---
 
-> “Build with empathy, scale with integrity.”
