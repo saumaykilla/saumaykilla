@@ -21,7 +21,7 @@ An AI-powered platform to streamline job applications by:
 `React`, `Next.js`, `Tailwind CSS`, `TypeScript`, `HTML/CSS`, `Shadcn`, `Framer Motion`
 
 **Backend & Infra:**  
-`AWS Amplify`, `GraphQL`, `DynamoDB`, `Node.js`, `Flask`, `Docker`, `Superbase`
+`AWS Amplify`, `GraphQL`, `DynamoDB`, `Node.js`, `Flask`, `Docker`, `Superbase`, `LangChain`, `LLM`
 
 **Tools:**  
 `zustand`, `react-hook-form`, `yup`, `GitHub Actions`, `Postman`
