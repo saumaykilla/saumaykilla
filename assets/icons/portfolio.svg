@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Saumay Killa portfolio">
+  <rect width="48" height="48" rx="11" fill="#FFFFFF"/>
+  <rect x=".5" y=".5" width="47" height="47" rx="10.5" fill="none" stroke="#E7B6A4"/>
+  <rect x="7" y="7" width="34" height="34" rx="7" fill="#C45A38"/>
+  <text x="24" y="29" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">SK</text>
+</svg>

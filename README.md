@@ -4,12 +4,12 @@
   <a href="https://saumay-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3200&pause=900&color=C45A38&center=true&vCenter=true&width=720&lines=I+build+modern+web+applications+that+solve+real+problems.;From+realtime+AI+agents+to+production-ready+SaaS.;Turning+ideas+into+impact." alt="Portfolio introduction" /></a>
 
   <p>
-    <a href="https://saumay-portfolio.vercel.app"><img height="28" src="https://saumay-portfolio.vercel.app/icon" alt="Saumay Killa portfolio mark" /></a>
-    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-C45A38?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/saumaykilla"><img height="24" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/linkedin.svg" alt="LinkedIn icon" /></a>
-    <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:saumaykilla@gmail.com"><img height="24" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/email.svg" alt="Email icon" /></a>
-    <a href="mailto:saumaykilla@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logoColor=white" alt="Email Saumay" /></a>
+    <a href="https://saumay-portfolio.vercel.app"><img height="32" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/portfolio.svg" alt="Saumay Killa portfolio mark" /></a>
+    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Explore-C45A38?style=for-the-badge" alt="Explore Saumay's portfolio" /></a>
+    <a href="https://www.linkedin.com/in/saumaykilla"><img height="32" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/linkedin.svg" alt="LinkedIn icon" /></a>
+    <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge" alt="Connect with Saumay on LinkedIn" /></a>
+    <a href="mailto:saumaykilla@gmail.com"><img height="32" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/email.svg" alt="Email icon" /></a>
+    <a href="mailto:saumaykilla@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-EA4335?style=for-the-badge" alt="Email Saumay" /></a>
   </p>
 </div>
 
@@ -32,9 +32,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,graphql,postgres,mongodb,redis&theme=light" alt="Node.js, Express, Python, FastAPI, Flask, GraphQL, PostgreSQL, MongoDB, and Redis" />
   <br /><br />
   <img height="42" src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets" />
-  <img height="42" src="https://cdn.simpleicons.org/amazonaws" alt="Amazon DynamoDB" />
+  <img height="42" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
   <img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase" />
-  <img height="42" src="https://cdn.simpleicons.org/pinecone" alt="Pinecone" />
   <img height="42" src="https://www.google.com/s2/favicons?domain=spacetimedb.com&sz=64" alt="SpacetimeDB" />
   <img src="https://img.shields.io/badge/asyncpg-PostgreSQL%20async%20driver-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="asyncpg" />
   <img src="https://img.shields.io/badge/REST-APIs-0EA5E9?style=flat-square" alt="REST APIs" />
@@ -72,13 +71,6 @@
     <td align="center" width="25%"><strong>60%</strong><br /><sub>Lift in onboarding completion</sub></td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saumaykilla&show_icons=true&hide_border=true&bg_color=F7F1E8&title_color=C45A38&icon_color=C45A38&text_color=6F675F" alt="Saumay's GitHub stats" /></a>
-  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumaykilla&layout=compact&hide_border=true&bg_color=F7F1E8&title_color=C45A38&text_color=6F675F" alt="Saumay's top languages" /></a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=saumaykilla&style=flat-square&color=C45A38" alt="Profile views" />
-</div>
 
 ## I build modern web applications that solve real problems.
 
