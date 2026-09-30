@@ -15,31 +15,24 @@
 
 ## Tools & technologies
 
-<details open>
   <summary><strong>Frontend & mobile</strong></summary>
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,figma&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Redux, and Figma" />
-  <br /><br />
   <img height="42" src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" />
   <img height="42" src="https://cdn.simpleicons.org/framer" alt="Framer Motion" />
   <img height="42" src="https://cdn.simpleicons.org/react" alt="React Native" />
   <img height="42" src="https://cdn.simpleicons.org/expo" alt="Expo" />
-</details>
 
-<details open>
   <summary><strong>Backend, realtime & data</strong></summary>
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,graphql,postgres,mongodb,redis&theme=light" alt="Node.js, Express, Python, FastAPI, Flask, GraphQL, PostgreSQL, MongoDB, and Redis" />
-  <br /><br />
   <img height="42" src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets" />
   <img height="42" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
   <img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase" />
   <img height="42" src="https://www.google.com/s2/favicons?domain=spacetimedb.com&sz=64" alt="SpacetimeDB" />
   <img src="https://img.shields.io/badge/asyncpg-PostgreSQL%20async%20driver-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="asyncpg" />
   <img src="https://img.shields.io/badge/REST-APIs-0EA5E9?style=flat-square" alt="REST APIs" />
-</details>
 
-<details open>
   <summary><strong>AI, agents & voice</strong></summary>
   <br />
   <img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" />
@@ -49,16 +42,13 @@
   <img height="42" src="https://cdn.simpleicons.org/livekit" alt="LiveKit" />
   <img height="42" src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=64" alt="Vapi" />
   <img src="https://img.shields.io/badge/RAG-retrieval--augmented%20generation-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" alt="Retrieval-augmented generation" />
-</details>
 
-<details open>
   <summary><strong>Cloud, DevOps & quality</strong></summary>
   <br />
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,vercel,githubactions,jest,git,postman,playwright&theme=light" alt="AWS, Docker, Kubernetes, Terraform, Vercel, GitHub Actions, Jest, Git, Postman, and Playwright" />
   <br /><br />
   <img src="https://img.shields.io/badge/AWS-Amplify%20%C2%B7%20EC2%20%C2%B7%20S3%20%C2%B7%20Lambda%20%C2%B7%20SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Amplify, EC2, S3, Lambda, and SQS" />
   <img src="https://img.shields.io/badge/HCL-Terraform%20configuration-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HCL" />
-</details>
 
 ## Metrics
 
