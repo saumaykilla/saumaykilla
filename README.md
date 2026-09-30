@@ -16,64 +16,64 @@
 ## Tools & technologies
 
 <div align="center">
-  <strong>Frontend & mobile</strong><br/><br />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=shadcnui&logoColor=000000" alt="shadcn/ui" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=expo&logoColor=000000" alt="Expo" />
+  <strong>Frontend & mobile</strong><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" /><img width="48" height="48" src="https://cdn.simpleicons.org/react/61DAFB" alt="React" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" /><img width="48" height="48" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /><img width="48" height="48" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" /><img width="48" height="48" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=css&logoColor=1572B6" /><img width="48" height="48" src="https://cdn.simpleicons.org/css/1572B6" alt="CSS3" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redux&logoColor=764ABC" /><img width="48" height="48" src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" /><img width="48" height="48" src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=shadcnui&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcn/ui" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=framer&logoColor=0055FF" /><img width="48" height="48" src="https://cdn.simpleicons.org/framer/0055FF" alt="Framer Motion" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" /><img width="48" height="48" src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=expo&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/expo/000000" alt="Expo" /></picture>
 </div>
 
 <div align="center">
-  <strong>Backend, realtime & data</strong><br /><br/>
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=000000" alt="WebSockets" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-  <img height="48" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/spacetimedb.svg" alt="SpacetimeDB" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="asyncpg" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+  <strong>Backend, realtime & data</strong><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /><img width="48" height="48" src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/express/000000" alt="Express" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" /><img width="48" height="48" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" /><img width="48" height="48" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/flask/000000" alt="Flask" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=graphql&logoColor=E10098" /><img width="48" height="48" src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><img width="48" height="48" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248" /><img width="48" height="48" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redis&logoColor=FF4438" /><img width="48" height="48" src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/socketdotio/000000" alt="WebSockets" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=supabase&logoColor=3FCF8E" /><img width="48" height="48" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/spacetimedb.svg" /><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=spacetimedb.com&sz=64" alt="SpacetimeDB" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" /><img width="48" height="48" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="asyncpg" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" /><img width="48" height="48" src="https://cdn.simpleicons.org/fastapi/009688" alt="REST APIs" /></picture>
 </div>
 
 <div align="center">
   <strong>AI, agents & voice</strong><br /><br />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude by Anthropic" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langgraph&logoColor=1C3C3C" alt="LangGraph" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=livekit&logoColor=1FD5F9" alt="LiveKit" />
-  <img height="48" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/vapi.svg" alt="Vapi" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Retrieval-augmented generation" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" /><img width="48" height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/anthropic/000000" alt="Claude by Anthropic" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langchain&logoColor=1C3C3C" /><img width="48" height="48" src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langgraph&logoColor=1C3C3C" /><img width="48" height="48" src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=livekit&logoColor=1FD5F9" /><img width="48" height="48" src="https://cdn.simpleicons.org/livekit/1FD5F9" alt="LiveKit" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/vapi.svg" /><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=64" alt="Vapi" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" /><img width="48" height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Retrieval-augmented generation" /></picture>
 </div>
 
 <div align="center">
   <strong>Cloud, DevOps & quality</strong><br /><br />
-  <img height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img height="48" src="https://skillicons.dev/icons?i=playwright&theme=light" alt="Playwright" />
-  <img height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS Amplify, EC2, S3, Lambda, and SQS" />
-  <img height="48" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="HCL" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/aws.svg" /><img width="48" height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" /><img width="48" height="48" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" /><img width="48" height="48" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" /><img width="48" height="48" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" /><img width="48" height="48" src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=2088FF" /><img width="48" height="48" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325" /><img width="48" height="48" src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" /><img width="48" height="48" src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" /><img width="48" height="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/playwright.svg" /><img width="48" height="48" src="https://skillicons.dev/icons?i=playwright&theme=light" alt="Playwright" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/aws.svg" /><img width="48" height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS Amplify, EC2, S3, Lambda, and SQS" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" /><img width="48" height="48" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="HCL" /></picture>
 </div>
 
 ## Metrics
