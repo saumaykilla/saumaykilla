@@ -5,7 +5,6 @@
 
   <p>
     <a href="https://saumay-portfolio.vercel.app"><img height="28" src="https://saumay-portfolio.vercel.app/icon" alt="Saumay Killa portfolio mark" /></a>
-    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-C45A38?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/saumaykilla"><img height="24" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/linkedin.svg" alt="LinkedIn icon" /></a>
     <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:saumaykilla@gmail.com"><img height="24" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/email.svg" alt="Email icon" /></a>
