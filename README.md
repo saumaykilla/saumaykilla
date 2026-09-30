@@ -16,7 +16,7 @@
 ## Tools & technologies
 
 <div align="center">
-  <sub><strong>Frontend & mobile</strong></sub><br />
+  <strong>Frontend & mobile</strong><br/><br />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <sub><strong>Backend, realtime & data</strong></sub><br />
+  <strong>Backend, realtime & data</strong><br /><br/>
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <sub><strong>AI, agents & voice</strong></sub><br />
+  <strong>AI, agents & voice</strong><br /><br />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude by Anthropic" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <sub><strong>Cloud, DevOps & quality</strong></sub><br />
+  <strong>Cloud, DevOps & quality</strong><br /><br />
   <img height="34" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
