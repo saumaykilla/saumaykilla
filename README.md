@@ -42,7 +42,6 @@
 <details open>
   <summary><strong>AI, agents & voice</strong></summary>
   <br />
-  <img height="42" src="https://cdn.simpleicons.org/openai" alt="OpenAI GPT" />
   <img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" />
   <img height="42" src="https://cdn.simpleicons.org/anthropic" alt="Claude by Anthropic" />
   <img height="42" src="https://cdn.simpleicons.org/langchain" alt="LangChain" />
