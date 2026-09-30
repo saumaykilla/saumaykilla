@@ -4,82 +4,13 @@
   <a href="https://saumay-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=850&color=60A5FA&center=true&vCenter=true&width=720&lines=I+build+modern+web+applications+that+solve+real+problems.;From+realtime+AI+agents+to+production-ready+SaaS.;Shipping+useful+ideas%2C+end+to+end." alt="Typing introduction" /></a>
 
   <p>
-    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-visit%20site-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/LinkedIn-Saumay%20Killa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:saumaykilla@gmail.com"><img src="https://img.shields.io/badge/Email-let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Saumay" /></a>
   </p>
 </div>
 
-## Hey, I’m Saumay 👋
-
-I’m a **full-stack software developer and AI engineer in New York** who turns fuzzy product ideas into polished, scalable software. My sweet spot is the overlap of thoughtful UX, reliable systems, and AI that has a real job to do—from realtime voice interfaces to agentic workflows and data-driven SaaS.
-
-- 🔭 **Building:** agentic products, voice AI experiences, and full-stack platforms people actually use.
-- ⚡ **Strength:** taking a product from interface to infrastructure—React/Next.js, Python/FastAPI, databases, cloud, and deployment.
-- 🎓 **Background:** M.S. in Management Information Systems, **New York University** (STEM-designated).
-- 🤝 **Open to:** product-minded engineering roles, ambitious collaborations, and conversations about AI, SaaS, and startups.
-
-<br />
-
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Consensus AI</h3>
-      <p>A realtime meeting agent that listens quietly, then surfaces decisions the team may be reopening.</p>
-      <p><code>LiveKit</code> <code>Gemini</code> <code>RAG</code></p>
-    </td>
-    <td width="50%">
-      <h3>✦ <a href="https://github.com/saumaykilla/frontend-segment-ai">Velix</a></h3>
-      <p>A multi-agent marketing platform that turns a website into brand insight, campaigns, personas, and social assets.</p>
-      <p><code>LangGraph</code> <code>Gemini</code> <code>Next.js</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>👗 <a href="https://github.com/saumaykilla/StyleAI">Klo / StyleAI</a></h3>
-      <p>An Expo mobile app for live styling sessions with camera, voice, a LiveKit agent, and fashion-aware RAG.</p>
-      <p><code>Expo</code> <code>FastAPI</code> <code>LiveKit</code> <code>Supabase</code></p>
-    </td>
-    <td>
-      <h3>💼 <a href="https://github.com/saumaykilla/resume-cv-letter-service">Resume Studio</a></h3>
-      <p>An AI application that tailors résumés and cover letters to a role, then exports polished PDFs.</p>
-      <p><code>Next.js</code> <code>FastAPI</code> <code>AI</code> <code>PDF</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📈 <a href="https://github.com/saumaykilla/Live-Trading-Ticker">Live Ticker</a></h3>
-      <p>A full-stack dashboard that scrapes live market prices and updates multiple tickers without thrashing the UI.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>Playwright</code></p>
-    </td>
-    <td>
-      <h3>☁️ <a href="https://github.com/saumaykilla/AWS-S3-sqs-lambda">AWS Eventflow</a></h3>
-      <p>Infrastructure as code for a resilient file pipeline: S3 → SQS → Lambda → dead-letter recovery.</p>
-      <p><code>AWS</code> <code>Terraform</code> <code>Serverless</code></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://saumay-portfolio.vercel.app/#projects"><strong>Explore every project on my portfolio →</strong></a>
-</p>
-
-## Product impact
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>~40%</strong><br /><sub>AWS serverless cost reduction</sub></td>
-    <td align="center" width="25%"><strong>&lt;200ms</strong><br /><sub>Perceived latency for concurrent AI streams</sub></td>
-    <td align="center" width="25%"><strong>60%</strong><br /><sub>Faster release cycles through test coverage</sub></td>
-    <td align="center" width="25%"><strong>60%</strong><br /><sub>Lift in onboarding completion</sub></td>
-  </tr>
-</table>
-
-At **HumAInority**, I own UI systems, realtime state, and serverless backend work for an AI platform expanding career access. Earlier, I built frontend systems at **Wiz Freight** and ML/reporting automation at **HighRadius**—experience that keeps me focused on both product quality and measurable outcomes.
-
-## Toolbox
+## Tools & technologies
 
 <details open>
   <summary><strong>Frontend & mobile</strong></summary>
@@ -128,11 +59,16 @@ At **HumAInority**, I own UI systems, realtime state, and serverless backend wor
   <img src="https://img.shields.io/badge/HCL-Terraform%20configuration-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HCL" />
 </details>
 
-## Beyond the code
+## Metrics
 
-I like working on the messy, high-leverage parts of a product: defining the useful problem, shaping a crisp experience, and engineering the path to a dependable launch. Right now, I’m especially curious about multi-agent orchestration, semantic search, and scalable multi-tenant SaaS.
-
-> “Build things that make people’s lives easier.”
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>~40%</strong><br /><sub>AWS serverless cost reduction</sub></td>
+    <td align="center" width="25%"><strong>&lt;200ms</strong><br /><sub>Perceived latency for concurrent AI streams</sub></td>
+    <td align="center" width="25%"><strong>60%</strong><br /><sub>Faster release cycles through test coverage</sub></td>
+    <td align="center" width="25%"><strong>60%</strong><br /><sub>Lift in onboarding completion</sub></td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saumaykilla&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" alt="Saumay's GitHub stats" /></a>
@@ -140,6 +76,70 @@ I like working on the messy, high-leverage parts of a product: defining the usef
   <br />
   <img src="https://komarev.com/ghpvc/?username=saumaykilla&style=flat-square&color=2563EB" alt="Profile views" />
 </div>
+
+## Hey, I’m Saumay 👋
+
+I’m a **full-stack software developer and AI engineer in New York** who turns fuzzy product ideas into polished, scalable software. My sweet spot is the overlap of thoughtful UX, reliable systems, and AI that has a real job to do—from realtime voice interfaces to agentic workflows and data-driven SaaS.
+
+- 🔭 **Building:** agentic products, voice AI experiences, and full-stack platforms people actually use.
+- ⚡ **Strength:** taking a product from interface to infrastructure—React/Next.js, Python/FastAPI, databases, cloud, and deployment.
+- 🎓 **Background:** M.S. in Management Information Systems, **New York University** (STEM-designated).
+- 🤝 **Open to:** product-minded engineering roles, ambitious collaborations, and conversations about AI, SaaS, and startups.
+
+At **HumAInority**, I own UI systems, realtime state, and serverless backend work for an AI platform expanding career access. Earlier, I built frontend systems at **Wiz Freight** and ML/reporting automation at **HighRadius**—experience that keeps me focused on both product quality and measurable outcomes.
+
+<br />
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Consensus AI</h3>
+      <p>A realtime meeting agent that listens quietly, then surfaces decisions the team may be reopening.</p>
+      <p><code>LiveKit</code> <code>Gemini</code> <code>RAG</code></p>
+    </td>
+    <td width="50%">
+      <h3>✦ <a href="https://github.com/saumaykilla/frontend-segment-ai">Velix</a></h3>
+      <p>A multi-agent marketing platform that turns a website into brand insight, campaigns, personas, and social assets.</p>
+      <p><code>LangGraph</code> <code>Gemini</code> <code>Next.js</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>👗 <a href="https://github.com/saumaykilla/StyleAI">Klo / StyleAI</a></h3>
+      <p>An Expo mobile app for live styling sessions with camera, voice, a LiveKit agent, and fashion-aware RAG.</p>
+      <p><code>Expo</code> <code>FastAPI</code> <code>LiveKit</code> <code>Supabase</code></p>
+    </td>
+    <td>
+      <h3>💼 <a href="https://github.com/saumaykilla/resume-cv-letter-service">Resume Studio</a></h3>
+      <p>An AI application that tailors résumés and cover letters to a role, then exports polished PDFs.</p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>AI</code> <code>PDF</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📈 <a href="https://github.com/saumaykilla/Live-Trading-Ticker">Live Ticker</a></h3>
+      <p>A full-stack dashboard that scrapes live market prices and updates multiple tickers without thrashing the UI.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>Playwright</code></p>
+    </td>
+    <td>
+      <h3>☁️ <a href="https://github.com/saumaykilla/AWS-S3-sqs-lambda">AWS Eventflow</a></h3>
+      <p>Infrastructure as code for a resilient file pipeline: S3 → SQS → Lambda → dead-letter recovery.</p>
+      <p><code>AWS</code> <code>Terraform</code> <code>Serverless</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://saumay-portfolio.vercel.app/#projects"><strong>Explore every project on my portfolio →</strong></a>
+</p>
+
+## Beyond the code
+
+I like working on the messy, high-leverage parts of a product: defining the useful problem, shaping a crisp experience, and engineering the path to a dependable launch. Right now, I’m especially curious about multi-agent orchestration, semantic search, and scalable multi-tenant SaaS.
+
+> “Build things that make people’s lives easier.”
 
 <div align="center">
   <sub>© 2026 Saumay Killa · Built with curiosity, care, and a few well-placed console logs.</sub>
