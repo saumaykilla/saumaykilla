@@ -15,40 +15,66 @@
 
 ## Tools & technologies
 
-  <summary><strong>Frontend & mobile</strong></summary>
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,figma&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Redux, and Figma" />
-  <img height="42" src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" />
-  <img height="42" src="https://cdn.simpleicons.org/framer" alt="Framer Motion" />
-  <img height="42" src="https://cdn.simpleicons.org/react" alt="React Native" />
-  <img height="42" src="https://cdn.simpleicons.org/expo" alt="Expo" />
+<div align="center">
+  <sub><strong>Frontend & mobile</strong></sub><br />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=shadcnui&logoColor=000000" alt="shadcn/ui" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer Motion" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=expo&logoColor=000000" alt="Expo" />
+</div>
 
-  <summary><strong>Backend, realtime & data</strong></summary>
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,graphql,postgres,mongodb,redis&theme=light" alt="Node.js, Express, Python, FastAPI, Flask, GraphQL, PostgreSQL, MongoDB, and Redis" />
-  <img height="42" src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets" />
-  <img height="42" src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" />
-  <img height="42" src="https://cdn.simpleicons.org/supabase" alt="Supabase" />
-  <img height="42" src="https://www.google.com/s2/favicons?domain=spacetimedb.com&sz=64" alt="SpacetimeDB" />
-  <img src="https://img.shields.io/badge/asyncpg-PostgreSQL%20async%20driver-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="asyncpg" />
-  <img src="https://img.shields.io/badge/REST-APIs-0EA5E9?style=flat-square" alt="REST APIs" />
+<div align="center">
+  <sub><strong>Backend, realtime & data</strong></sub><br />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" alt="Flask" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=socketdotio&logoColor=000000" alt="WebSockets" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+  <img height="34" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/spacetimedb.svg" alt="SpacetimeDB" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="asyncpg" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST APIs" />
+</div>
 
-  <summary><strong>AI, agents & voice</strong></summary>
-  <br />
-  <img height="42" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" />
-  <img height="42" src="https://cdn.simpleicons.org/anthropic" alt="Claude by Anthropic" />
-  <img height="42" src="https://cdn.simpleicons.org/langchain" alt="LangChain" />
-  <img height="42" src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" />
-  <img height="42" src="https://cdn.simpleicons.org/livekit" alt="LiveKit" />
-  <img height="42" src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=64" alt="Vapi" />
-  <img src="https://img.shields.io/badge/RAG-retrieval--augmented%20generation-7C3AED?style=flat-square&logo=googlegemini&logoColor=white" alt="Retrieval-augmented generation" />
+<div align="center">
+  <sub><strong>AI, agents & voice</strong></sub><br />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=000000" alt="Claude by Anthropic" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langgraph&logoColor=1C3C3C" alt="LangGraph" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=livekit&logoColor=1FD5F9" alt="LiveKit" />
+  <img height="34" src="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/vapi.svg" alt="Vapi" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Retrieval-augmented generation" />
+</div>
 
-  <summary><strong>Cloud, DevOps & quality</strong></summary>
-  <br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,vercel,githubactions,jest,git,postman,playwright&theme=light" alt="AWS, Docker, Kubernetes, Terraform, Vercel, GitHub Actions, Jest, Git, Postman, and Playwright" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/AWS-Amplify%20%C2%B7%20EC2%20%C2%B7%20S3%20%C2%B7%20Lambda%20%C2%B7%20SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Amplify, EC2, S3, Lambda, and SQS" />
-  <img src="https://img.shields.io/badge/HCL-Terraform%20configuration-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HCL" />
+<div align="center">
+  <sub><strong>Cloud, DevOps & quality</strong></sub><br />
+  <img height="34" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="Terraform" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img height="34" src="https://skillicons.dev/icons?i=playwright&theme=light" alt="Playwright" />
+  <img height="34" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS Amplify, EC2, S3, Lambda, and SQS" />
+  <img height="34" src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" alt="HCL" />
+</div>
 
 ## Metrics
 
