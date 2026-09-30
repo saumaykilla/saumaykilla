@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:7c3aed&height=240&section=header&text=Saumay%20Killa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20software%20developer%20%E2%80%A2%20AI%20engineer%20%E2%80%A2%20Aspiring%20founder&descSize=18&descAlignY=58&animation=fadeIn" alt="Saumay Killa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7F1E8,60:EFE8DC,100:E7B6A4&height=240&section=header&text=Saumay%20Killa&fontSize=64&fontColor=1C1612&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descColor=C45A38&descAlignY=58&animation=fadeIn" alt="Saumay Killa" />
 
-  <a href="https://saumay-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=850&color=60A5FA&center=true&vCenter=true&width=720&lines=I+build+modern+web+applications+that+solve+real+problems.;From+realtime+AI+agents+to+production-ready+SaaS.;Shipping+useful+ideas%2C+end+to+end." alt="Typing introduction" /></a>
+  <a href="https://saumay-portfolio.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&duration=3200&pause=900&color=C45A38&center=true&vCenter=true&width=720&lines=I+build+modern+web+applications+that+solve+real+problems.;From+realtime+AI+agents+to+production-ready+SaaS.;Turning+ideas+into+impact." alt="Portfolio introduction" /></a>
 
   <p>
-    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/LinkedIn-Saumay%20Killa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:saumaykilla@gmail.com"><img src="https://img.shields.io/badge/Email-let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Saumay" /></a>
+    <a href="https://saumay-portfolio.vercel.app"><img height="28" src="https://saumay-portfolio.vercel.app/icon" alt="Saumay Killa portfolio mark" /></a>
+    <a href="https://saumay-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-C45A38?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/saumaykilla"><img height="24" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" alt="LinkedIn icon" /></a>
+    <a href="https://www.linkedin.com/in/saumaykilla"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:saumaykilla@gmail.com"><img height="24" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="Email icon" /></a>
+    <a href="mailto:saumaykilla@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logoColor=white" alt="Email Saumay" /></a>
   </p>
 </div>
 
@@ -15,7 +18,7 @@
 <details open>
   <summary><strong>Frontend & mobile</strong></summary>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,figma&theme=dark" alt="React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Redux, and Figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,redux,figma&theme=light" alt="React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Redux, and Figma" />
   <br /><br />
   <img height="42" src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" />
   <img height="42" src="https://cdn.simpleicons.org/framer" alt="Framer Motion" />
@@ -26,7 +29,7 @@
 <details open>
   <summary><strong>Backend, realtime & data</strong></summary>
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,graphql,postgres,mongodb,redis&theme=dark" alt="Node.js, Express, Python, FastAPI, Flask, GraphQL, PostgreSQL, MongoDB, and Redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,graphql,postgres,mongodb,redis&theme=light" alt="Node.js, Express, Python, FastAPI, Flask, GraphQL, PostgreSQL, MongoDB, and Redis" />
   <br /><br />
   <img height="42" src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets" />
   <img height="42" src="https://cdn.simpleicons.org/amazonaws" alt="Amazon DynamoDB" />
@@ -53,7 +56,7 @@
 <details open>
   <summary><strong>Cloud, DevOps & quality</strong></summary>
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,vercel,githubactions,jest,git,postman,playwright&theme=dark" alt="AWS, Docker, Kubernetes, Terraform, Vercel, GitHub Actions, Jest, Git, Postman, and Playwright" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,vercel,githubactions,jest,git,postman,playwright&theme=light" alt="AWS, Docker, Kubernetes, Terraform, Vercel, GitHub Actions, Jest, Git, Postman, and Playwright" />
   <br /><br />
   <img src="https://img.shields.io/badge/AWS-Amplify%20%C2%B7%20EC2%20%C2%B7%20S3%20%C2%B7%20Lambda%20%C2%B7%20SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Amplify, EC2, S3, Lambda, and SQS" />
   <img src="https://img.shields.io/badge/HCL-Terraform%20configuration-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="HCL" />
@@ -71,22 +74,22 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saumaykilla&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" alt="Saumay's GitHub stats" /></a>
-  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumaykilla&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8" alt="Saumay's top languages" /></a>
+  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api?username=saumaykilla&show_icons=true&hide_border=true&bg_color=F7F1E8&title_color=C45A38&icon_color=C45A38&text_color=6F675F" alt="Saumay's GitHub stats" /></a>
+  <a href="https://github.com/saumaykilla"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumaykilla&layout=compact&hide_border=true&bg_color=F7F1E8&title_color=C45A38&text_color=6F675F" alt="Saumay's top languages" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=saumaykilla&style=flat-square&color=2563EB" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=saumaykilla&style=flat-square&color=C45A38" alt="Profile views" />
 </div>
 
-## Hey, I’m Saumay 👋
+## I build modern web applications that solve real problems.
 
-I’m a **full-stack software developer and AI engineer in New York** who turns fuzzy product ideas into polished, scalable software. My sweet spot is the overlap of thoughtful UX, reliable systems, and AI that has a real job to do—from realtime voice interfaces to agentic workflows and data-driven SaaS.
+I’m Saumay Killa, a **software developer and AI engineer in New York**. I work across frontend and backend—React, Next.js, TypeScript, Python, and AWS—and ship full-stack products, from realtime AI platforms to web apps people actually use.
 
-- 🔭 **Building:** agentic products, voice AI experiences, and full-stack platforms people actually use.
-- ⚡ **Strength:** taking a product from interface to infrastructure—React/Next.js, Python/FastAPI, databases, cloud, and deployment.
+- 🔭 **Building:** agentic products, voice AI experiences, and useful full-stack platforms.
+- ⚡ **Working across:** the interface, services, data, cloud, and deployment.
 - 🎓 **Background:** M.S. in Management Information Systems, **New York University** (STEM-designated).
 - 🤝 **Open to:** product-minded engineering roles, ambitious collaborations, and conversations about AI, SaaS, and startups.
 
-At **HumAInority**, I own UI systems, realtime state, and serverless backend work for an AI platform expanding career access. Earlier, I built frontend systems at **Wiz Freight** and ML/reporting automation at **HighRadius**—experience that keeps me focused on both product quality and measurable outcomes.
+At **HumAInority**, I work on UI systems, realtime state, and serverless backend work for an AI platform expanding career access. Earlier, I built frontend systems at **Wiz Freight** and ML/reporting automation at **HighRadius**. The throughline: make the product clearer, faster, and more dependable.
 
 <br />
 
@@ -135,11 +138,11 @@ At **HumAInority**, I own UI systems, realtime state, and serverless backend wor
   <a href="https://saumay-portfolio.vercel.app/#projects"><strong>Explore every project on my portfolio →</strong></a>
 </p>
 
-## Beyond the code
+## The bar
 
-I like working on the messy, high-leverage parts of a product: defining the useful problem, shaping a crisp experience, and engineering the path to a dependable launch. Right now, I’m especially curious about multi-agent orchestration, semantic search, and scalable multi-tenant SaaS.
+AI is useful when it makes a job faster, clearer, or more human. I like the messy, high-leverage work: defining the useful problem, shaping a crisp experience, and engineering the reliable path to launch. Right now, I’m exploring multi-agent orchestration, semantic search, and scalable multi-tenant SaaS.
 
-> “Build things that make people’s lives easier.”
+> *Turning ideas into impact.*
 
 <div align="center">
   <sub>© 2026 Saumay Killa · Built with curiosity, care, and a few well-placed console logs.</sub>
