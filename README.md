@@ -57,7 +57,6 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=langgraph&logoColor=1C3C3C" /><img width="48" height="48" src="https://cdn.simpleicons.org/langgraph/1C3C3C" alt="LangGraph" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=livekit&logoColor=1FD5F9" /><img width="48" height="48" src="https://cdn.simpleicons.org/livekit/1FD5F9" alt="LiveKit" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/vapi.svg" /><img width="48" height="48" src="https://www.google.com/s2/favicons?domain=vapi.ai&sz=64" alt="Vapi" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" /><img width="48" height="48" src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Retrieval-augmented generation" /></picture>
 </div>
 
 <div align="center">
@@ -72,10 +71,6 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" /><img width="48" height="48" src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" /><img width="48" height="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/playwright.svg" /><img width="48" height="48" src="https://skillicons.dev/icons?i=playwright&theme=light" alt="Playwright" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saumaykilla/saumaykilla/main/assets/icons/aws.svg" /><img width="48" height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS Amplify, EC2, S3, Lambda, and SQS" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=terraform&logoColor=7B42BC" /><img width="48" height="48" src="https://cdn.simpleicons.org/terraform/7B42BC" alt="HCL" /></picture>
-</div>
-
 ## Metrics
 
 <table>
